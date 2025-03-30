@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aedes": "^0.51.3",
+    "aedes-server-factory": "^0.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mqtt": "^5.10.4"
+  }
+}
